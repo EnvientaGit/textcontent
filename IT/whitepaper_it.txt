@@ -11,31 +11,27 @@ P2P Foundation - La Fondazione per le alternative peer-to-peer
 "È un'iniziativa di tipo 'connetti i punti' che mira a raccogliere vari tipi di tecnologia open source per un intero stile di vita basato sulle soluzioni modulari a basso costo e a conoscenza aperta. se un progetto orientato all'adozione di massa come questo può aiutare a diffondere il verbo sull'integrazione di open source e tecnologia aperta nella vita di tutti i giorni, sarebbe una iniziativa importante ".  Michel Bauwens Teorico Peer-to-Peer, scrittore, ricercatore e relatore sul tema della tecnologia, della cultura e dell'innovazione aziendale 
 Direttore e fondatore della Fondazione P2P 
 "il progetto envienta è uno di tanti avvenimenti ecologici che seguo e facilmente tra i primi sei. mi piace particolarmente per l'importanza dell'approccio olistico - sono stato a lungo frustrato dalla riluttanza di ogni gruppo open source coi paraocchi a una fertilizzazione incrociata. considero anche il loro focus sul salario di base come una complementarità di una ecologia con tutto open source, un importante elemento distintivo."
-  Robert David Steele Vivas CEO di Earth Intelligence Network 
+ Robert David Steele Vivas CEO di Earth Intelligence Network 
 Ex candidato presidenziale degli Stati Uniti 
 Promotore dell'intelligenza open source (OSINT) 
 
-"Envienta è all'avanguardia nella progettazione di un cooperativismo di piattaforme progettato per la comunità di hardware open source come parte della sua strategia complessiva per lo sviluppo di un ecosistema open source per l'innovazione. Envienta sta collaborando con il progetto WEquest di Amsterdam che sta sviluppando un sistema basato su criptovaluta per supportare un'economia basata sulle risorse che tiene traccia di contributi e ricompense sia per le transazioni locali che per la produzione di beni e servizi che ottengono il massimo beneficio, e con Stop Reset Go, sviluppare un quadro globale per sincronizzare le azioni locali con gli impatti globali applicando i confini planetari e i principi economici a ciambella. " 
- James Gien Warney-Wong 
+"Envienta è all'avanguardia nella progettazione di un cooperativismo di piattaforme progettato per la comunità di hardware open source come parte della sua strategia complessiva per lo sviluppo di un ecosistema open source per l'innovazione. Envienta sta collaborando con il progetto WEquest di Amsterdam che sta sviluppando un sistema basato su criptovaluta per supportare un'economia basata sulle risorse che tiene traccia di contributi e ricompense sia per le transazioni locali che per la produzione di beni e servizi che ottengono il massimo beneficio, e con Stop Reset Go, sviluppare un quadro globale per sincronizzare le azioni locali con gli impatti globali applicando i confini planetari e i principi economici a ciambella. "  James Gien Warney-Wong 
 Membro del consiglio di amministrazione dell'OSCE Days,
 co-fondatore di Stop Reset Go, Institute of Future Living, Ingenious Designs
-
  
 PARTE 1 
 Introduzione 
 
-"Internet delle Cose" (IoT) sta già incrementando la produttività fino al punto in cui il costo marginale della produzione di beni e servizi è quasi pari a zero, rendendoli quasi gratuiti. Di conseguenza, i profitti aziendali si stanno esaurendo, i diritti di proprietà si stanno indebolendo e un'economia basata sulla scarsità sta lentamente cedendo il passo a un'economia di abbondanza ".  
+"Internet delle Cose" (IoT) sta già incrementando la produttività fino al punto in cui il costo marginale della produzione di beni e servizi è quasi pari a zero, rendendoli quasi gratuiti. Di conseguenza, i profitti aziendali si stanno esaurendo, i diritti di proprietà si stanno indebolendo e un'economia basata sulla scarsità sta lentamente cedendo il passo a un'economia di abbondanza ". 
 Jeremy Rifkin
 economista, consigliere governativo (USA, Cina, Germania)
 L'autore bestseller del libro New York Times The Zero Marginal Cost Society 
 
 "Internet of Things (IoT) è la rete di oggetti fisici o " cose " incorporati in elettronica, software, sensori e connettività di rete, che consente a questi oggetti di raccogliere e scambiare dati. L'Internet of Things consente di rilevare e controllare gli oggetti da remoto attraverso l'infrastruttura di rete esistente, creando opportunità per un'integrazione più diretta tra il mondo fisico e i sistemi basati su computer e migliorando l'efficienza, l'accuratezza e il vantaggio economico. Ogni oggetto è identificabile in modo univoco attraverso il suo sistema informatico integrato, ma è in grado di interoperare all'interno dell'infrastruttura Internet esistente. Gli esperti stimano che l'IoT consisterà in quasi 50 miliardi di oggetti entro il 2020.
 
-
 Problemi 
 
 Ci siamo confrontati con i fatti: la fine della sicurezza sociale e la crescita infinita, l'enorme disuguaglianza, il collasso dell'economia di mercato, la crisi politica, degli immigrati e il cambiamento climatico. Dobbiamo gradualmente passare a un modello armonico, stabile, basato sulla scienza e intrinsecamente sostenibile.
-
 
 Pensiero ecologico
 
@@ -49,16 +45,11 @@ ENVIENTA - Come funziona?
 
 ENVIENTA è un modello socioeconomico in rapida crescita, sostenibile, economicamente vantaggioso, senza scopo di lucro, decentralizzato e olistico. Se è troppo astratto, l'abbiamo semplificato per farlo capire a chiunque. Nei tempi moderni, le necessità umane fondamentali - cibo, acqua, energia, oggetti per la casa, mobili e così via, in una forma affidabile - dipendono da molte condizioni. ENVIENTA è nata come un pacchetto di soluzioni fai-da-te per il 21 ° secolo, che fornisce condivisione di know-how, risorse, prodotti, cibo e acqua per i membri. Come modello open source, offre piani aziendali a chiunque gratuitamente, così come la massima trasparenza.
 
-
 SMART GARDEN - SMART HOME - RINNOVABILI - STAMPA 3D - ROBOTICA - SENSORI - NANOTECNOLOGIE - VALUTE
 
 Cos'è l'open source? In un modello open source, i membri condividono le proprie risorse, creatività ed esperienza in comune, che è un modo di auto-espressione. Nessuno possiede il progetto o il risultato, è gratuito per chiunque. Questo tipo di produzione sociale si basa sulla cooperazione e l'aiuto reciproco.
 
 Se chiunque può partecipare allo sviluppo, la nostra comunità può crescere facilmente, l'innovazione tecnologica appare più veloce nella nostra vita quotidiana, invece che negli ambienti di ricerca e sviluppo protetti da brevetto. Ci siamo chiesti: e se chiamassimo persone con competenze diverse e da diversi campi della vita che lavorassero insieme all'open source di quasi tutto di una casa? Per rendere il nostro modello economico e redditizio, portiamo gli sviluppi domestici sotto un unico tetto. Con un approccio olistico, è ovvio avere poche aree chiave unite nel sistema.
-
-
-
-
 
 SPAZIO VITALE
 
@@ -68,41 +59,33 @@ CASA INTELLIGENTE
 
 Stabiliamo interfacce e API comuni in uno spazio domestico intelligente ancora frammentato. Abbiamo bisogno di interfacce inter-piattaforma facili da usare, basate sul web per qualsiasi dispositivo per soddisfare le nostre esigenze di facilità, sicurezza ed efficienza energetica. I nostri partner stanno collaborando con ENVIENTA, attraverso la divisione open source di prodotti e servizi.
 
-
 ENERGIE RINNOVABILI
 
 Le tecnologie rinnovabili in questo momento tendono a diventare open source. Buoni esempi di ciò sono le turbine eoliche stampabili e pochi progetti di fiori solari che ingaggiamo. Potrebbe essere un buon momento per passare al solare o all'eolico per ridurre i consumi. Uno dei nostri partner sta fornendo il progetto con un prodotto nanotech chiamato AkkuFresh, che aumenta la capacità di carica delle batterie Li-Ion e mantiene una durata ottimale della batteria.
-
 
 GIARDINO INTELLIGENTE
 
 Oggi possiamo spendere meno per il cibo con verdure fatte in casa e allo stesso tempo possiamo ridurre la quantità di suolo e l'utilizzo di acqua. Un giardino idro e aeroponico intelligente monitora e traccia l'ambiente. Un'app mobile dà voce alle tue piante, ti consiglia e invia promemoria. Abbiamo progettato un sistema aeroponico stampato in 3D, proprio come i nostri partner, stanno sviluppando giardini interni efficienti, intelligenti e modulari.
 
-
 STAMPA 3D
 
 Le nuove stampanti 3D sono in grado di stampare in diverse forme e dimensioni e offrono un enorme vantaggio ai progettisti di interni e ai privati per arredare le loro case. Esistono milioni di modelli 3D disponibili gratuitamente sul Web e un numero crescente di prodotti stampabili. Il nostro obiettivo è renderli disponibili per i proprietari di case, aiutare a personalizzare con software e stampanti open source.
-
 
 SENSORI
 
 Si prevede che enormi benefici economici, ambientali, di salute e sicurezza scaturiranno dalla prossima era dei sensori. Grandi dati, intuizioni utili, come sappiamo. Collaboriamo con start-up che sviluppano dispositivi diagnostici per la salute open source alla portata di tutti. Abbiamo collegamenti con le università in Europa coinvolgendoli in misure di inquinamento dell'acqua e dell'aria nelle aree urbane e rurali, utilizzando l'elettronica open source.
 
-
 ROBOTICA
 
 Il progetto si sta inoltre concentrando sull'hardware Open Source che può essere utile nelle applicazioni e nelle ricerche di robotica. Ci sono tre campi di applicazione della robotica domestica: intrattenimento, elettrodomestici e istruzione. I robot non si muoveranno per casa domani, ma stanno migliorando e diventando più intelligenti ogni anno. Possiamo partire lentamente e costruire passo dopo passo.
-
 
 NANOTECNOLOGIE
 
 Uno dei nostri partner commerciali svolge un ruolo molto attivo nel campo della nanotecnologia con le applicazioni domestiche, dall'abbigliamento alla cosmesi fino al rivestimento superficiale. Il paradigma open source può sia accelerare l'innovazione che l'investimento pubblico nel campo. In questo modo, il pieno potenziale della nanotecnologia guiderà la quarta rivoluzione industriale, in cui la materia può essere manipolata con la stessa facilità del software attuale.
 
-
 VALUTE
 
 Crescendo come cellule, collegate tra loro, condividendo esperienze, nuove comunità possono essere incluse nel nostro sistema, che può fornire energia l'una all'altra, possono fare scambi, possono provare i singoli sistemi di insediamenti finanziari per bilanciarsi a vicenda, anche a grandi distanze , in diversi paesi. Abbiamo bisogno di un database distribuito per le transazioni finanziarie simile a Bitcoin per abilitare blockchain private con permessi gestiti.
-
 
 SVILUPPO SOFTWARE
 
@@ -111,7 +94,6 @@ Sul nostro nuovo sito web condivideremo il processo di pianificazione, con il mo
 VALORI
 
 Ci sarà un'autoregolamentazione indipendente sopra gli stati nelle comunità organizzate di produzione? Forse, dal momento che stiamo sviluppando software di democrazia liquida per queste comunità. Alcune questioni non possono essere risolte con un autonomo interesse personale, ma con una profonda collaborazione in beni comuni in rete, giocando un ruolo sempre più grande, integrato da forze governative e di mercato.
-
 
 CENTRO PROGETTO
 
@@ -123,7 +105,6 @@ ENVIENTA è un'associazione registrata senza scopo di lucro in Spagna nelle Isol
 
 Siamo anche in collaborazione con governi e residenti locali. Abbiamo un accordo con i proprietari della terra per condividere risorse, come acqua, cibo, strumenti, prodotti e know-how l'uno con l'altro. Proprio come l'energia che produciamo dalle fonti rinnovabili. L'uso della nostra stazione di ricarica per auto elettriche è anche gratuito per chiunque nei dintorni. È anche un modello di economia di condivisione di prossima generazione.
 
-
 FORMAZIONE SCOLASTICA
 
 La manifattura in cui produciamo quasi tutto ciò di cui abbiamo bisogno è estesa con uno studio di progettazione, un centro di stampa 3D, un laboratorio chimico e naturalmente un centro di formazione con corsi di formazione MOOCS locali e online. Stiamo progettando di gestire i centri di progetto come incubatori di startup tecnologiche per iniziative locali o globali.
@@ -134,16 +115,13 @@ ALLOGGIO PER GLI OSPITI
 
 Per gli investitori, i partner che collaborano e i visitatori che arrivano sui nostri corsi, l'alloggio è garantito nella nostra sezione della pensione. Quindi può essere una vacanza ecologica per te, per i tuoi amici o per i tuoi partner.
 
-
 GRANDE SOSTENIBILITÀ
 
 Quando abbiamo creato il progetto open source è sembrato ovvio applicare le stesse soluzioni su scala un po' più grande calcolando una popolazione adatta alla sostenibilità e controllo democratico in una data area. Costruire centri di progetto come ENVIENTA in un lasso di tempo relativamente breve può aiutare nella modellazione, sviluppando soluzioni ben utilizzabili per le città. Oltre a molti vantaggi, ENVIENTA è diventata la divisione open source del progetto Qetema smart city. Il concetto di Internet of Things - per aumentare l'efficienza e la produttività - inizia improvvisamente ad avere senso in una città che è intelligente nel suo ambiente, le persone, la mobilità, l'economia, la governance e, infine, la vita. Si prevede che centinaia di nuove città saranno costruite entro il 2050 per ospitare circa tre miliardi di popolazioni del mondo. Mostrando un'alta qualità della vita basata sulla sostenibilità, possiamo dare un esempio forte che influisce sullo sviluppo sostenibile delle città future.
 
-
 USO DI IoT SU GRANDE SCALA
 
 Le previsioni mostrano che ci si aspetta che miliardi di persone si trasferiranno nelle città nei prossimi decenni. Nelle condizioni attuali, sarebbe un enorme disastro per la Terra. Ma l'esistenza di hub piccoli e decentralizzati come ENVIENTA e città intelligenti come Qetema che ne derivano, possono dimostrare che la cooperazione su larga scala e il duro lavoro possono creare luoghi in cui tutti sono valutati e l'ambiente è protetto.
-
 
 IL TEAM ENVIENTA 
 Gabor Kiss
@@ -175,13 +153,10 @@ Sandor Koszecz https://www.linkedin.com/in/sandor-koszecz-01311580/
 Laszlo Fazekas https://www.linkedin.com/in/lászló-fazekas-2429a912/
 Mate Molnar https://www.linkedin.com/in/matemolnar88/
 
-
 PART E2
 PARTECIPA
 
-
 In questo capitolo esaminiamo le opportunità diffuse per gli individui, le comunità, le istituzioni educative, i governi locali, i partner commerciali che cooperano e gli investitori a partecipare al progetto.
-
 
 COINVOLGERE LE PERSONE
 
@@ -190,7 +165,6 @@ I Centri di Progetto ENVIENTA sono luoghi vivaci, attraverso studi di casi, puoi
 Programma di Gestione Comunitaria
 
 Situato nei centri di progetto ENVIENTA, ci esercitiamo ad impegnarci con gli altri per creare un impatto che dura più a lungo ed è più sostenibile di qualsiasi cosa che possiamo realizzare da soli. Insieme manteniamo e governiamo le infrastrutture a beneficio del pubblico nel suo insieme e oltre. Molte strade portano ai beni comuni: economia collaborativa, cultura aperta, condivisione di tecnologie e conoscenze, creazione di significati condivisi, protezione della biodiversità, risparmio di sementi, risorse naturali e altro ancora.
-
 
 Il nucleo della nostra inchiesta si concentra sulle seguenti domande:
 • Cosa diventa possibile quando mettiamo la nostra capacità collettiva al servizio della comunità?
@@ -204,7 +178,6 @@ Il corso si baserà sulla pratica effettiva della collaborazione e sulla ricerca
 Per chi è questo?
 
 Se sei cittadino, studente, imprenditore, operatore culturale, educatore per adulti, facilitatore di cambiamento, allenatore o lavori con la tua comunità locale e desideri sviluppare pratiche collaborative e partecipative per potenziare il cambiamento sociale e le risorse dell'amministratore, allora il corso ENVIENTA è per te. Indipendentemente dal tuo livello di esperienza, o area di interesse e attività, sei sicuro di portare a casa molte nuove idee e pratiche per il tuo progetto comunitario qualunque sia. Per non parlare di nuovi amici e di esperienze trasformative. Sarete in grado di vedere molte iniziative comuni e sistemi di comunità sostenibili chiave nelle pratiche lavorative e ascoltare le storie di persone che cercano di fare la loro parte nella transizione verso una società a basse emissioni di carbonio.
-
 
 Corsi di Autosufficienza
 
@@ -243,8 +216,6 @@ Il corso svelerà i processi fondamentali alla base della stampa 3D e rivelerà 
 • Come utilizzare l'attrezzatura in modo corretto e sicuro?
 • Revisione delle regole e delle linee guida per l'utilizzo della stampante 3D
 
-
-
 Corsi di domotica
 
 Tecnologia Casa Intelligente: questo corso offre un'introduzione eccellente ai componenti e alla costruzione di un sistema di casa intelligente da zero. Se vuoi essere un hacker elettronico, costruisci i tuoi sistemi e componenti di controllo piuttosto che installarli, troverai questo corso utile.
@@ -272,9 +243,6 @@ Il corso fornisce una preparazione di comprensione, motivazione, attuazione, imp
 • Nanoparticelle e come sintetizzarle
 • Applicazioni della nanotecnologia in campo ingegneristico, biomedico, energetico e ambientale
 
-
-
-
 COINVOLGIMENTO DELLE UNIVERSITÀ
 
 "Al suo livello più generale, ciò che distingue l'educazione olistica da altre forme di educazione sono i suoi obiettivi, la sua attenzione all'apprendimento esperienziale e il significato che pone sulle relazioni e sui valori umani primari all'interno dell'ambiente di apprendimento".
@@ -283,7 +251,6 @@ Dr. Robin Ann Martin
 Professore Assistente
 Scuola di specializzazione in educazione
 Università di Bilkent
-
 
 I nostri obiettivi
 
@@ -346,8 +313,6 @@ Le attività a livello locale di ENVIENTA sono svolte nell'ambito della partners
 
 La conoscenza e l'esperienza acquisite nel corso dell'attuazione saranno raccolte, analizzate e diffuse attraverso il nostro centro di conoscenza in collaborazione con il mondo accademico e l'associazione di enti locali di autogoverno. I nostri piani di investimento si adattano sempre alle condizioni climatiche e ambientali locali, contenenti i materiali più facilmente disponibili localmente e possibilmente riciclabili, considerando le competenze e la forza lavoro disponibili per ridurre le spese. Stiamo utilizzando l'ultima tecnologia disponibile durante le costruzioni e concentrandoci sulla combinazione di alloggi, offerta di cibo e produzione locale con una E-Manifattura completamente digitale. Queste soluzioni chiavi in mano offrono un enorme vantaggio ai responsabili delle decisioni del governo per aumentare il tenore di vita della popolazione, ridurre i costi e attuare gli investimenti verdi allo stesso tempo. Considerando il fatto che ENVIENTA è un'organizzazione senza scopo di lucro, potrebbe essere l'inizio di una relazione fruttuosa - una cooperazione su tre lati auspicabile tra governi, organizzazioni non profit e interessi commerciali locali in un'economia ibrida emergente.
 
-
-
 PARTNER
 
 Subito dopo aver pubblicato le nostre idee, il progetto ENVIENTA ha immediatamente catturato l'immaginazione delle persone, comprese le aziende. Alcuni di loro hanno una visione chiara della Terza rivoluzione industriale, ma solo pochi di loro sanno come impegnarsi per ottenere un profitto affidabile. Pensiamo che ci sia abbastanza spazio per ampliare gli interessi commerciali nella nuova era, specialmente con un pensiero esponenziale.
@@ -358,13 +323,11 @@ Collaborazione tra organizzazioni non profit e aziende
 
 Il 21° secolo è un'era di interdipendenza accelerata. La collaborazione intersettoriale tra organizzazioni non profit, aziende e governi intensificherà una convergenza di pressioni politiche, economiche e lal pressione sociale sta promuovendo tale collaborazione. I governi stanno ridimensionando e privatizzando a causa delle pressioni fiscali sui bilanci e del riconoscimento dei limiti dello stato come erogatore di servizi sociali. Vi è una crescente devoluzione delle funzioni dai governi centrali a livello locale e dal settore pubblico al settore privato, comprese le organizzazioni non profit e le società. I problemi sociali sono cresciuti in grandezza e complessità e le organizzazioni non profit (NPO) hanno proliferato per affrontarle. Tuttavia, le fonti di finanziamento tradizionali e le capacità istituzionali non hanno tenuto il passo. La ricerca di nuove risorse e di approcci organizzativi più efficaci sta riunendo organizzazioni non profit e aziende. Queste alleanze stanno anche emergendo perché le aziende stanno sempre più riesaminando le loro tradizionali pratiche filantropiche e cercando nuove strategie di coinvolgimento con le loro comunità che avranno una maggiore rilevanza per le imprese e un maggiore impatto sociale.
 
-
 COINVOLGIMENTO DI INVESTITORI
 
 Perché investire in azioni societarie dannose per l'ambiente e il sociale quando i fondi di investimento sociale offrono una combinazione di ritorni di mercato sani e contribuiscono alle missioni socioeconomiche del non profit? Perché non perseguire l'idea di mettere le risorse e l'appoggio senza fini di lucro in investimenti legati alla missione? Come ogni azienda, un no-profit deve generare entrate per coprire le proprie spese. Ha bisogno di identificare un mercato di riferimento e capire come fornirà i suoi prodotti e servizi a quel mercato. Tuttavia esistono alcune differenze e considerazioni chiave e dovresti essere consapevole di esse prima di investire in questa struttura legale.
 
 Investire nel futuro
-
 
 Noi della ENVIENTA Association pensiamo che diventare più consapevoli delle questioni globali aiuti a fare alcuni cambiamenti e abbiamo la capacità di elaborare un nuovo paradigma di vita. Un modo diverso di crescita, se vuoi. Come principio fondamentale, stiamo guardando alla Terra come un complesso sistema di interrelazioni che funzionano in modo simbiotico e sinergico per mantenere il funzionamento del tutto.
 
@@ -374,24 +337,15 @@ Un approccio olistico che ci ha spinto a creare il progetto ENVIENTA Open Source
 
 ENVIENTA è un progetto di trasformazione, impegnato a creare una vera economia di condivisione.
 
-
-
 PARTE 3
 RILASCIO DI TOKEN
 e implementazione
-
-
 
 ENVIENTA è un'iniziativa dal basso che, grazie all'approccio open source, potrebbe essere una fonte di cambiamenti radicali. Qui offriamo una partecipazione di ENVIENTA ICO.
 
 L'implementazione è suddivisa in quattro fasi, a seconda di quanti token saremo in grado di vendere e di quanto capitale possiamo raccogliere.
 
-
-
-
-
 BONUS / WHITELIST
-
 
 Lo scopo della lista bianca è che tu ci faccia conoscere la tua intenzione di investire (iscrivendoti). Sarai tra i primi a essere informato della vendita di token all'inizio della campagna. In questo modo non ti perderai nessun bonus. È per questo che dovresti iscriverti alla lista bianca il prima possibile: cliccando sul link:
 http://envienta.com/whitelist.php
@@ -415,10 +369,8 @@ Avvio della piattaforma desktop e mobile ENVIENTA
 FASE 4
 Avvio della produzione e distribuzione basate su piattaforma attraverso partner, maker-space e centri di progetto
 
-
 Contributo minimo
 Non esiste un acquisto minimo di token, ma è raccomandato 0,05 ETH (la rete Ethereum applica una piccola commissione per la transazione, si chiama Gas).
-
 
 VALORE TOKEN ENV E L'ECONOMIA KICK
 
@@ -426,11 +378,9 @@ La valuta ufficiale del progetto ENVIENTA è il token ENV. Puoi utilizzare ENV p
 
 Inoltre, con ENV, offriamo sconti di acquisto nel mercato di ENVIENTA e forniamo diritti di voto su alcune questioni, perché vogliamo coinvolgere gli investitori nei nostri processi decisionali in futuro.
 
-
 Stiamo creando un fondo di liquidità conforme a EIP-228 per coprire almeno il 10% dei nostri profitti (reinvestiamo la parte rimanente nel progetto), quindi il valore dei token aumenterà anche durante lo sviluppo del progetto attraverso il fondo di liquidità.
 
 È importante notare che ci sono prodotti reali dietro i token ENV - centri di progetto, spazi per i produttori, piattaforma online, innovazioni hardware tecnologiche esponenziali, mercato, servizi - vedere i dettagli di seguito. Sappiamo che le tecnologie open source hanno un enorme potenziale per le imprese. La ricompensa maggiore, tuttavia, è rappresentata dai vantaggi ambientali, sociali ed economici, in quanto l'hardware, il software e i modelli open source possono essere utilizzati liberamente da chiunque.
-
 
 Fase 1
 CENTRO PROGETTO ENVIENTA
@@ -447,13 +397,11 @@ MODELLO DI ENTRATE DEL CENTRO DEL PROGETTO
 Riduzione dei costi attraverso: sviluppi tecnologici open source, risparmi ricevuti tramite fonti rinnovabili, vendite di prodotti e prodotti sani di produzione locale, condivisione delle risorse e time banking nell'economia circolare locale e globale. Inoltre, servizi come noleggio di alloggi, formazione, stampa e progettazione 3D locali, consulenza e implementazione di costruzioni, ecc. Rendono il centro di progetto ENVIENTA 100% autosufficiente e anche un investimento intelligente per i nostri sostenitori.
 FARE PARTE DI UNA GRANDE AVVENTURA
 
-
 Vi invitiamo a trascorrere con noi una settimana di vacanza nelle Isole Canarie, nel nostro centro di innovazione auto-sostenibile, in cambio dei vostri token ENVIENTA.
 Prezzo di alloggio: 200 ENV = 2 ETH
 Questa è un'offerta limitata, lo scambio di questi token legati alle vacanze inizierà dopo che la campagna ICO sarà partita con successo.
 
 Questo non solo ti ispirerà come vivere in una relazione simbiotica con le tecnologie rivoluzionarie, ma potrai imparare molto di più sui modi di vivere sostenibili, a beneficio di tutta la società. Puoi anche diventare un membro di un'incredibile comunità di esperti in diversi campi, da tutto il mondo. Le tecnologie con cui interagirai diventeranno anche le tue, dato che avrai accesso ai progetti. Così puoi svilupparli ulteriormente aggiungendo le tue idee. Implementando la struttura dei token decentralizzati dopo questa vendita iniziale, ognuno avrà la possibilità di prenotare alcuni giorni, o più, per godersi ciò che Gran Canaria e la tecnologia hanno da offrire.
-
 
 Fase 2
 ENVIENTA EDUCATION
@@ -475,7 +423,6 @@ Conferenze e vertici ENVIENTA
 Programma di tirocinio
 Ricerca e Sviluppo
 
-
 FARE PARTE DI UN PROGRAMMA DI EDUCAZIONE ALL'AVANGUARDIA
 
 Stiamo anche aggiungendo programmi di qualità che danno più valore al tempo trascorso nelle strutture in cambio dei token ENVIENTA.
@@ -493,7 +440,6 @@ Corso di nanotecnologia
 Prezzo del servizio educativo: 200 ENV = 2 ETH
 Questa è un'offerta limitata, lo scambio di questi token legati all'istruzione inizierà dopo il successo della campagna ICO.
 
-
 Fase 3
 PIATTAFORMA ENVIENTA
 2000 - 3000 ETH
@@ -504,20 +450,17 @@ Gli sviluppi dell'hardware open source rappresentano l'area di destinazione prin
 
 PIANO DI INVESTIMENTO
 
-
 "Envienta è all'avanguardia nella progettazione di un cooperativismo di piattaforme progettato per la comunità di hardware open source come parte della sua strategia globale per lo sviluppo di un ecosistema open source per l'innovazione." Envienta sta collaborando con il progetto WEquest di Amsterdam che sta sviluppando un sistema basato su criptovaluta per supportare un'economia basata sulle risorse che tiene traccia dei contributi e dei premi sia per le transazioni locali che per la produzione di beni e servizi che ottengono il massimo beneficio, e con Stop Reset Go, sviluppando un quadro globale per sincronizzare le azioni locali agli impatti globali applicando i confini planetari e principi economici doughnut. "
 
 James Gien Warney-Wong
 Membro del consiglio di amministrazione dell'OSCE Days,
 co-fondatore di Stop Reset Go, Institute of Future Living, Ingenious Designs
 
-
 MODELLO DI ENTRATE PER PIATTAFORME
 
 L'obiettivo finale della piattaforma ENVIENTA è la creazione di valore e il trasferimento di beni/servizi attraverso le interazioni tra produttori/produttori, sostenitori, produttori, distributori e consumatori e la cattura di una parte di questo valore creato. In una data interazione, il consumatore paga il produttore usando una qualche forma di valuta. Questa valuta può essere l'attenzione, la reputazione, l'influenza o qualche altra forma di valuta non monetaria, ma potrebbe anche essere denaro.
 
 In che modo la piattaforma acquisisce una parte di questa valuta per se stessa? In caso di ENVIENTA il trasferimento di denaro avviene sulla piattaforma, quindi effettuiamo una piccola transazione nei seguenti casi:
-
 
 Campagne di Finanziamento Collettivo
 
@@ -527,11 +470,9 @@ Aziende per l'accesso a produttori/maker di alta qualità e curati
 Produttori e distributori per ottenere licenze
 Campagne pubblicitarie
 
-
 FAI PARTE DELLA RIVOLUZIONE OPEN SOURCE
 
 Se sei appassionato di problemi e soluzioni ambientali, sociali ed economiche, envienta.org è il posto giusto per realizzare profondi cambiamenti attraverso tecnologie all'avanguardia. In qualità di proprietario di token ENVIENTA, avrai l'opportunità di investire in tecnologie e progetti open source ancora più eccitanti e dirompenti che soddisfano i criteri degli Obiettivi di sviluppo sostenibile delle Nazioni Unite. Segui lo sviluppo in corso e iscriviti su http://envienta.org
-
 
 Fase 4
 PRODUZIONE E DISTRIBUZIONE
@@ -551,13 +492,9 @@ MODELLO DELLE ENTRATE DI PRODUZIONE E DISTRIBUZIONE
 
 La creazione di tali siti di produzione sarà supportata da ENVIENTA come investitore. In questi spazi creativi, ENVIENTA sarà un partner commerciale e ciò produrrà profitti a lungo termine. Inoltre, sia in fase 3 che in fase 4, abbiamo stanziato un budget per supportare progetti software e hardware e ricerche correlate. Una parte dei profitti derivanti da questi investimenti sarà reinvestita dalla nostra "società" (virgolette a causa della struttura decentralizzata), e un'altra parte di essa sarà investita in un fondo di riacquisto di token. Secondo i nostri piani, i token rilasciati durante l'ICO potranno essere riacquistati dai nostri investitori a prezzi multipli.
 
-
-
-
 FARE PARTE DI UN'IMPRESA CHE SI TROVA CON POSITIVO IMPATTO AMBIENTALE E RITORNO SOCIALE SUGLI INVESTIMENTI
 
 È chiaro sin dall'inizio che ENVIENTA ha riposto la sua fiducia nel modello di comunità aperta. Le porte sono aperte a tutti e incoraggiamo la collaborazione sfruttando l'enorme potenziale commerciale del modello. Sebbene abbiamo un piano e una strategia ben definiti per raggiungere i nostri obiettivi, vorremmo coinvolgere il nostro pubblico di riferimento e in particolare i nostri investitori. Vogliamo che gli investitori siano coinvolti nelle nostre decisioni in proporzione ai loro token al fine di co-gestire ENVIENTA.
-
 
 PARTE 4
 DISTRIBUZIONE TOKEN
@@ -588,14 +525,12 @@ Piattaforma di raccolta fondi: KICKICO.com (basato su Ethereum)
 Cronologia: Da decidersi
 Data di distribuzione del token: Da decidersi
 
-
 PART 5
 CONCLUSIONI
 
 L'idea di base di ENVIENTA può essere paragonata a TESLA: il nostro obiettivo principale è trovare soluzioni agli attuali problemi dell'umanità, ma allo stesso tempo vogliamo costruire un buon business, così possiamo catalizzare i cambiamenti con le risorse così ottenute. Mentre i media mainstream sono pieni di richieste di cambiamenti radicali, stiamo lavorando duramente a renderli reali.
 Se decidi di diventare nostro investitore unendoti al rilascio del nostro token, farai parte della nostra storia e ci aiuterai a raggiungere i nostri obiettivi.
 Come potete vedere, abbiamo piani precisi per i prossimi due anni, ma non possiamo neanche immaginare che cosa porterà il futuro. Stiamo anche cercando i modelli più ottimali per la gestione della nostra organizzazione. Forse una volta che ENVIENTA diventa un DAO, una società per azioni, un'organizzazione di gruppo o una forma non identificata, non strutturata e mista di organizzazioni. Al momento non lo sappiamo. Qualunque cosa sia, crediamo che il nostro progetto abbia un grande potenziale finanziario e che i benefici ambientali, sociali ed economici siano inestimabili...
-
 
 SEQUENZA TEMPORALE
 
@@ -626,7 +561,6 @@ Accogliere e formare sostenitori e volontari
 Avvio della piattaforma desktop e mobile ENVIENTA
 Avvio della produzione e distribuzione basate su piattaforma attraverso partner, makerspace e centri di progetto
 
-
 Asociación ENVIENTA Open Source Ecología
 C / Lanzarote Duplex Eurovillas No. 15.
 San Fernando De Maspalomas
@@ -642,14 +576,11 @@ Web: http://envienta.com
 Email: info@envienta.com
 telefono: +34 646 401 417
 
-
 Seguici su
 Facebook | Twitter | Google+ | YouTube (ENVIENTA)
 Youtube (FILM ECOLOGICI) | Telegram | Medio | GitHub
 
 Se stai leggendo questa frase significa che sei una persona con incredibile raffinatezza e attenzione ai dettagli, quindi siamo particolarmente grati per il tuo tempo. Speriamo che ti coinvolgerai nel nostro progetto. Se hai qualcosa da chiedere, siamo sempre disponibili e felici di rispondere a tutte le tue domande.
 
-ENVIENTA - STILE DI VITA ALTERNATIVO
-
-    
+ENVIENTA - STILE DI VITA ALTERNATIVO 
 
