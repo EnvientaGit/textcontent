@@ -49,10 +49,10 @@ San Fernando De Maspalomas
 35100 | San Bartolome De Tirajana, Spain
 
 Token sale start date and time(UTC):
-TBD
+01-February-2018
 
 Token sale end date and time (UTC):
-TBD
+14-February-2018
 
 Total supply of token, for crowdsale, team e.t.c.
 1,200,000 ENV
